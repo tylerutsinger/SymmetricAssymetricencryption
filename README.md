@@ -1,0 +1,2 @@
+# SymmetricAssymetricencryption
+The first program showcases symmetric encryption by using a single key. Using the python library I generated a public key which encrypted the word in the txt file. The encrypted file is then saved in the folder along with the public key used. Then by using RSA encryption which is a form of asymmetric encryption. The key used in the previous encryption is encrypted by a generated public and private key and saved to folder.
